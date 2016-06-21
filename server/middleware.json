@@ -42,7 +42,7 @@
   },
   "files": {
       "loopback#static":{
-          "param":"$!../client"
+          "params": "$!../client"
       }
   },
   "final": {
