@@ -8,7 +8,7 @@
     "port": 3306,
     "url": "mysql://loopback:loopback/loopback",
     "database": "loopback",
-    "password": "pod8dev",
+    "password": "root",
     "name": "mysqlDs",
     "connector": "mysql",
     "user": "root"
